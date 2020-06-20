@@ -2,7 +2,7 @@
 # Theme Template
 # Doc: https://gitpitch.com/docs/themes/default
 #
-theme            : moon
+theme            : sky
 
 theme-background : [ "#ffffff" ]
 # theme-headline   : [ "Montserrat", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
