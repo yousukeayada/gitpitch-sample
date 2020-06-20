@@ -10,6 +10,6 @@
   
 ---
 
-![IMAGE](assets/img/うるせぇいこう.png)
+![IMAGE](assets/img/logo.png)
 
 ---
